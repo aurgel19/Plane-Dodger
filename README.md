@@ -1,1 +1,1 @@
-# Plane-Dodger
+A clone of Flappy Bird made using BlueJ. The player taps the up arrow to make the plane fly upward. They must collect stars to earn points, avoid enemy planes, and keep their plane in the air. The player’s high score is saved and displayed on the main menu.
